@@ -44,7 +44,14 @@
     --button-background: #ffffff;
     --button-border: 1px solid #FFFFFF;
 
-	/* Friendica */
+/* My Website */
+.button-my-website {
+    --button-text: #ffffff;
+    --button-background: #44bded;
+    --button-border: 1px solid #000000;
+}
+
+/* Friendica */
 .button-friendica {
     --button-text: #ffffff;
     --button-background: #0084b4;
